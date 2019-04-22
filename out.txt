@@ -1,0 +1,15 @@
+AFD	# identifica o tipo de formalismo
+4	# quantidade de estados
+2	# quantidade de símbolos terminais
+23	# Função de transição δ (q0, 0) = q23
+1	# Função de transição δ (q0, 1) = q1
+1	# Função de transição δ (q1, 0) = q1
+0	# Função de transição δ (q1, 1) = q0
+45	# Função de transição δ (q23, 0) = q45
+45	# Função de transição δ (q23, 1) = q45
+23	# Função de transição δ (q45, 0) = q23
+23	# Função de transição δ (q45, 1) = q23
+0	# estado inicial(q0)
+2	# quantidade de estados finais
+0	# estados finais
+45	# estados finais
